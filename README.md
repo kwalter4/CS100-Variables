@@ -2,7 +2,7 @@
 
 Complete all 6 problems below. Examples are provided as guides of what a working solution might look like when it's run. Your program does not need to match the text or style exactly like the example in order to pass the tests.
 
-Problem 1 -- Average.py
+**Problem 1 -- Average.py**
 
 Use the Average.py file to write a step-by-step algorithm that calculates the average of 3 floating point numbers (numbers with a fractional part). Ask the user for the numbers one by one. The print the average with some nice formating text.
 
@@ -10,7 +10,7 @@ Example:
 
 Problem 1 Example
 
-Problem 2 -- Distance.py
+**Problem 2 -- Distance.py**
 
 Assuming there are no accidents or delays, the distance that a car travels down the interstate can be calculated with the following formula:
 
@@ -27,7 +27,7 @@ Example:
 
 Problem 2 Example
 
-Problem 3 -- CelsiusToFahrenheit.py
+**Problem 3 -- CelsiusToFahrenheit.py**
 
 In the CelsiusToFahrenheit file write a program that converts Celsius temperatures to Fahrenheit temperatures. The formula is as follows:
 
@@ -39,13 +39,13 @@ Example:
 
 Problem 3 Example
 
-###Problem 4 -- Purchase.py A customer in a store is purchasing five items. In the Purchase.py Write a program that asks for the price of each item, then displays the subtotal of the sale, the amount of sales tax, and the total. Assume the sales tax is 7 percent.
+**###Problem 4 -- Purchase.py A customer in a store is purchasing five items. In the Purchase.py Write a program that asks for the price of each item, then displays the subtotal of the sale, the amount of sales tax, and the total. Assume the sales tax is 7 percent.**
 
 Example:
 
 Problem 4 Example
 
-Problem 5 -- Acres.py
+**Problem 5 -- Acres.py**
 
 One acre of land is equivalent to 43,560 square feet. In the Acres.py file write a program that asks the user to enter the total square feet in a tract of land and calculates the number of acres in the tract. Hint: Divide the amount entered by 43,560 to get the number of acres.
 
@@ -53,7 +53,7 @@ Example:
 
 Problem 5 Example
 
-###Problem 6 -- Drawing.py Use the turtle graphics to draw:
+**###Problem 6 -- Drawing.py Use the turtle graphics to draw:
 
 A Five Pointed Star
 The Olympic Rings
